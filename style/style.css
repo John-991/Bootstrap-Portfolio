@@ -1,0 +1,13 @@
+header{
+  height: 6.5vh;
+}
+/* Hover effects */
+.bi:hover , .text-warning:hover , li a:hover {
+  background-color: rgb(23, 122, 122);
+  transition: 1s ease;
+}
+/* Profile image rounded */
+.rounded-circle {
+  width: 35%;
+  height: auto;
+}
