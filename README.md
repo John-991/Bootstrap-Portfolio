@@ -38,7 +38,7 @@ It it optimized for smaller screens.
 <img src="images/Tablet.png" width="400" height="550">
 
 ### Mobile Version
-<img src="images/Mobile.png" width="250" height="800">
+<img src="images/Mobile.png" width="250" height="900">
 
 
 ## Credits
