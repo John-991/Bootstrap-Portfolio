@@ -24,7 +24,7 @@ Here, I've refined my expertise, seamlessly integrating Bootstrap's power to cre
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
 
 The deployed website linked was deployed using GitHub Pages.
-[Link to the deployed website](https://john-991.github.io/CSS-Challenge-Professional-Portfolio/)
+[Link to the deployed website](https://john-991.github.io/Bootstrap-Portfolio/)
 
 ## Usage 
 
