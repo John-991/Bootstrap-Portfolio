@@ -21,7 +21,7 @@ Here, I've refined my expertise, seamlessly integrating Bootstrap's power to cre
 
 ## Installation
 
-Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
+Upload index.html, license.txt, images and CSS folders to the deployed webserver.
 
 The deployed website linked was deployed using GitHub Pages.
 [Link to the deployed website](https://john-991.github.io/Bootstrap-Portfolio/)
