@@ -32,13 +32,13 @@ It it optimized for smaller screens.
 [html link](index.html)
 
 ### Desktop Version
-<img src="starter/images/Desktop.png" width="600" height="500">
+<img src="images/Desktop.png" width="500" height="600">
 
 ### Tablet Version
-<img src="starter/images/Tablet.png" width="300" height="550">
+<img src="images/Tablet.png" width="400" height="550">
 
 ### Mobile Version
-<img src="starter/images/Mobile.png" width="200" height="720">
+<img src="images/Mobile.png" >
 
 
 ## Credits
